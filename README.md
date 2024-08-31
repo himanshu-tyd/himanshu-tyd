@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/himanshu-tyd/himanshu-tyd/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/himanshu-tyd/himanshu-tyd/df498f28342b563716b2254338981efa67e5dc10/snake.svg" />
 
 
 ###
