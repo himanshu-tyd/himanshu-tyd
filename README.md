@@ -1,4 +1,4 @@
-<h4 align="left">💫 About Me:<br>👋 Hello there! I'm Himanshu Taviyad.<br><br>About Me<br>I'm a passionate and versatile developer diving into the world of web technologies. With a solid foundation in ReactJS, JavaScript, MongoDB, Express, and Node.js, I enjoy crafting robust and efficient solutions for the web.<br><br>What I Bring to the Table<br>🚀 ReactJS Enthusiast: Bringing user interfaces to life with ReactJS is my forte. I love the challenge of creating seamless and dynamic user experiences.<br><br>💻 Full Stack Explorer: From server-side development with Node.js and Express to database management with MongoDB, I navigate the entire web development landscape.<br><br>🌐 Web Tech Lover: Beyond the usual stack, I am always eager to explore and adapt to new technologies that push the boundaries of what's possible on the web.<br><br>Let's Connect<br>📫 Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to chat about the latest in tech, don't hesitate to reach out. Collaboration is the key to innovation!<br><br>Happy coding! 🚀</h4>
+<h4 align="left"><h2>👋 Hello there! I'm Himanshu Taviyad.</h2><br>💫 About Me:<br>I'm a passionate and versatile developer diving into the world of web technologies. With a solid foundation in ReactJS, JavaScript, MongoDB, Express, and Node.js, I enjoy crafting robust and efficient solutions for the web.<br><br>What I Bring to the Table<br>🚀 ReactJS Enthusiast: Bringing user interfaces to life with ReactJS is my forte. I love the challenge of creating seamless and dynamic user experiences.<br><br>💻 Full Stack Explorer: From server-side development with Node.js and Express to database management with MongoDB, I navigate the entire web development landscape.<br><br>🌐 Web Tech Lover: Beyond the usual stack, I am always eager to explore and adapt to new technologies that push the boundaries of what's possible on the web.<br><br>Let's Connect<br>📫 Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to chat about the latest in tech, don't hesitate to reach out. Collaboration is the key to innovation!<br><br>Happy coding! 🚀</h4>
 
 ###
 
@@ -59,11 +59,5 @@
 ###
 
 <img align="left" src="https://profile-counter.glitch.me/himanshu-tyd/count.svg?"  />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
