@@ -40,7 +40,7 @@
 </a>
     <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://github.com/himanshu-tyd">
         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
-    <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/23548171/himanshu">
+    <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/23548171/himanshu](https://stackoverflow.com/users/19024219/himanshu-taviyad?tab=profile)">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow"></a>
     <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/himanshu_tyd/">
         <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
