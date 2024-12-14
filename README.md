@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+👋;+I'm+Himanshu+Taviyad!;" />
     <img align="left" src="https://orhun.dev/img/.png">
 </h1>
@@ -23,11 +23,8 @@
 - :monocle_face: I love exploring new technologies and improving my skills.
 - :sunglasses: My motto is: **'It's never too late to learn and start something new'**.
 - :ok_hand: I spend hours untangling lines of code and debugging errors.
-- ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/himanshu-tyd/himanshu-tyd/df498f28342b563716b2254338981efa67e5dc10/snake.svg" />
 
 ###
 
