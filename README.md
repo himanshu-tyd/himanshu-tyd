@@ -3,7 +3,12 @@
     <img align="left" src="image.svg" width='110' height='110' >
 </h1>
 
-### I'm a passionate and versatile developer, deeply involved in the world of web technologies. My main focus is ReactJS, along with a robust stack that includes MongoDB, Express, and Node.js.
+<h4 aling='left' >
+I'm a passionate and versatile developer, deeply involved in the world of web technologies. My main focus is ReactJS, along with a robust stack that includes MongoDB, Express, and Node.js.
+    
+</h4>
+
+
 <div align='center'  >
 
 
