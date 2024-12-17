@@ -4,9 +4,11 @@
 </h1>
 
 ### I'm a passionate and versatile developer, deeply involved in the world of web technologies. My main focus is ReactJS, along with a robust stack that includes MongoDB, Express, and Node.js.
-<div align='center'>
+<div align='center'  >
 
-<img align="center"  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> **About Me**  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+
+
+<img align="center"  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> **About Me** <div> ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge) <div/>
 </div>
 
 
