@@ -22,7 +22,7 @@ I'm a passionate and versatile developer, deeply involved in the world of web te
 
 ---
 
-<img src="https://c.tenor.com/lJUbrW5qHogAAAAd/tenor.gif" width="350" align="right"/> <br/>
+<img src="https://c.tenor.com/lJUbrW5qHogAAAAd/tenor.gif" width="380" align="right"/> <br/>
 
 - :school: My Stack: ReactJS, Node.js, Express, MongoDB, JavaScript, TypeScript, and more.
 - :books: My expertise lies in **Full Stack Development**.
